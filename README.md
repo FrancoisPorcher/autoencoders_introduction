@@ -6,9 +6,11 @@
 
 This is an implementation of an AutoEncoder (One linear, the other with convolutions), trained on the MNIST database
 
-# 🎇Demo
+# 🎇 Demo
 
 ## AutoEncoder with Convolutions
+
+This AutoEncoder works much better than a simple Linear AutoEncoder
 
 ![Screenshot](autoencoder2.png)
 
