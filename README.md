@@ -10,7 +10,8 @@ This is an implementation of an AutoEncoder (One linear, the other with convolut
 
 ## AutoEncoder with Convolutions
 
-This AutoEncoder works much better than a simple Linear AutoEncoder
+This AutoEncoder works much better than a simple Linear AutoEncoder.
+First row is the real image, second row is the reconstructed image after encoding/decoding.
 
 ![Screenshot](autoencoder2.png)
 
